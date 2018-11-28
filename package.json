@@ -1,0 +1,24 @@
+{
+  "name": "my-robotjs",
+  "version": "1.0.0",
+  "description": "robot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuimDev/my-robotjs.git"
+  },
+  "author": "GuimDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuimDev/my-robotjs/issues"
+  },
+  "homepage": "https://github.com/GuimDev/my-robotjs#readme",
+  "dependencies": {
+    "ansi-colors": "^3.2.1",
+    "fancy-log": "^1.3.2",
+    "robotjs": "^0.5.1"
+  }
+}
